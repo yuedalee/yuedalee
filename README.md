@@ -3,8 +3,8 @@
 > 企业 AI 工作流与 Agent Skill 实践者  
 > 把企业经验训练成可执行、可复用、可持续迭代的 AI 工作流。
 
-你好，我是李伟 Lee，来自甘肃会宁，从事影视传媒、企业内容生产、新媒体运营与中小企业 AI 工作流实践。  
-我正在把自己长期积累的内容策划、商业判断、企业教练、组织协同和 AI 工具实践，逐步沉淀为可公开学习的 Agent Skill 与工作流样板。
+你好，我是李伟 Lee，来自中国·会宁，从事企业咨询、影视传媒、企业内容生产、新媒体代运营与中小企业 AI 工作流实践。  
+我正在把自己长期积累的商业判断、企业教练、组织协同以及内容策划和 AI 工具实践，逐步沉淀为可公开学习的 Agent Skill、工作流与本地应用样板。
 
 ---
 
@@ -15,6 +15,7 @@
 | 悦达智科官网入口 | 企业 AI 工作流与 Agent Skill 样板库的公开门面 | [yuedalee.github.io](https://yuedalee.github.io/) |
 | AI 工作流样板库 | 面向中小企业的 AI 工作流与 Agent Skill 公开样板库 | [yueda-ai-workflow-kit](https://github.com/yuedalee/yueda-ai-workflow-kit) |
 | 第一个公开 Skill | 公众号资料包生成 Skill：把一个选题整理成可发布资料包 | [official-account-package](https://github.com/yuedalee/yueda-ai-workflow-kit/blob/main/skills/official-account-package/SKILL.md) |
+| 第二个公开 Skill | 企业问题诊断 Skill：判断问题等级并形成 72 小时行动建议 | [business-problem-diagnosis](https://github.com/yuedalee/yueda-ai-workflow-kit/blob/main/skills/business-problem-diagnosis/SKILL.md) |
 
 ---
 
@@ -60,7 +61,8 @@
 - [x] 公众号资料包生成 Skill
 - [x] 示例输入 `examples/input.md`
 - [x] 示例输出骨架 `examples/output-outline.md`
-- [ ] 企业问题诊断 Skill
+- [x] 企业问题诊断 Skill
+- [x] 企业问题诊断 Skill 示例输入与输出骨架
 - [ ] 短视频脚本策划 Skill
 - [ ] Skill 设计模板
 - [ ] 企业 AI 工作流案例
@@ -131,8 +133,9 @@
 ```text
 公开官网入口：已上线
 公开样板库：已创建
-第一个 Agent Skill：已完成最小闭环
-下一步：继续沉淀企业问题诊断 Skill、短视频脚本策划 Skill 与 Skill 模板
+公众号资料包生成 Skill：已完成最小闭环
+企业问题诊断 Skill：已完成最小闭环
+下一步：沉淀 Skill 通用模板，并继续推进短视频脚本策划 Skill
 ```
 
 ---
